@@ -1,18 +1,13 @@
-# About Me
+# Cloud Computing Laboratory Portfolio
 
-Name: Hans Paulo Cayaban
+Hello! My name is **Hans Paulo P. Cayaban**.
 
-Course:
-BS Information Technology
+I am a student currently studying **Cloud Computing**. This repository serves as my laboratory portfolio, where I document and organize the activities and tasks I complete throughout the semester.
 
-School:
-University of Eastern Pangasinan
+It includes laboratory exercises, activities, screenshots, system information, and personal reflections related to my Cloud Computing course.
 
-Hobbies: 
-Billiard
-Games
-Watching
-Reading books
+## Contents
 
-Goal:
-To become a professional IT expert.
+* **Laboratory 01 – Welcome to the Cloud**
+
+This repository will be continuously updated as I complete additional laboratory activities and requirements throughout the semester.
