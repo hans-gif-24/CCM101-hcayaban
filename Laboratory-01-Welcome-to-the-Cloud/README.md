@@ -1,4 +1,4 @@
-#Mission Overview#
+# Mission Overview
   
   Congratulations! You have been accepted as a Junior Cloud Infrastructure Engineer Trainee at CloudNova Technologies, a
   company specializing in cloud infrastructure, virtualization, and enterprise cloud solutions.
@@ -11,7 +11,7 @@
   Complete each checkpoint carefully. Every completed task represents a real-world responsibility of a cloud
   engineer.
 
-#Mission Objectives
+# Mission Objectives
 
 Upon successful completion of this mission, you should be able to:
 
@@ -23,7 +23,7 @@ Upon successful completion of this mission, you should be able to:
    Document technical work using Markdown.
    Demonstrate proper documentation practices used by cloud professionals. 
 
-##Activities Completed
+## Activities Completed
 
   Set up and created a new Linux user account
   Checked and gathered important system information
@@ -31,7 +31,7 @@ Upon successful completion of this mission, you should be able to:
   Created, edited, and managed Markdown files
   Uploaded the completed laboratory files and documentation to GitHub
   
-##Linux Commands Used
+## Linux Commands Used
 
   pwd – Checks the current location or working directory
   whoami – Shows the username of the current user
@@ -46,7 +46,7 @@ Upon successful completion of this mission, you should be able to:
   free – Displays information about memory usage
   df – Checks the available and used disk space
 
-##Skills and Knowledge Gained
+## Skills and Knowledge Gained
 
   Learned how to navigate and perform basic tasks using the Linux command line
   Gained experience in creating and managing users, files, and directories
