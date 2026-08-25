@@ -2,7 +2,7 @@
 
 ## 👋 Welcome!
 
-Hello! I am **Pierre Edison Manzano**, a **Bachelor of Science in Information Technology (BSIT)** student at the **University of Eastern Pangasinan**.
+Hello! I am **Hans Paulo P. Cayaban**, a **Bachelor of Science in Information Technology (BSIT)** student at the **University of Eastern Pangasinan**.
 
 This repository serves as my **Cloud Computing Laboratory Portfolio** for the semester. It contains my laboratory activities, technical exercises, documentation, screenshots, reflections, and practical experiences related to cloud computing and infrastructure.
 
