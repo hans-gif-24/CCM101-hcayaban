@@ -24,7 +24,7 @@ The information below was collected from the **KillerCoda Ubuntu Playground**. T
 | ☁️ **Hypervisor**       | KVM                                           |
 | 💻 **Virtualization**   | Full Virtualization                           |
 | 🧠 **RAM**              | 1.9 GiB                                       |
-| 📊 **RAM Used**         | 410 MiB                                       |
+| 📊 **RAM Used**         | 417 MiB                                       |
 | 🟢 **RAM Available**    | 1.5 GiB                                       |
 | 🔄 **Swap Memory**      | 1.0 GiB                                       |
 | 💾 **Disk Capacity**    | 19 GB                                         |
