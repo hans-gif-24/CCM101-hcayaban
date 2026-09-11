@@ -6,7 +6,7 @@ Hello! I am **Hans Paulo P. Cayaban**, a **Bachelor of Science in Information Te
 
 This repository serves as my **Cloud Computing Laboratory Portfolio** for the semester. It contains my laboratory activities, technical exercises, documentation, screenshots, reflections, and practical experiences related to cloud computing and infrastructure.
 
-Throughout the semester, this portfolio will showcase my progress and developing skills in **☁️ Cloud Computing, 🐧 Linux, 🐙 GitHub, 💻 System Administration, and 📝 Technical Documentation**.
+Throughout the semester, this portfolio showcases my progress and developing skills in **☁️ Cloud Computing, 🐧 Linux, 🐙 GitHub, 💻 System Administration, and 📝 Technical Documentation**.
 
 ---
 
@@ -24,7 +24,15 @@ The activities included investigating a Linux cloud server using the **KillerCod
 
 The laboratory also strengthened my skills in **Linux system administration, cloud infrastructure analysis, Markdown documentation, Git, and GitHub**.
 
-📌 **This portfolio will continue to be updated throughout the semester** as additional laboratory activities, checkpoints, exercises, and reflections are completed.
+### ☁️ Laboratory 03 — Multi-Cloud Explorer
+
+The third laboratory focused on exploring and comparing the three major cloud platforms: **Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP)**.
+
+The activities included researching the **global infrastructure, management consoles, core cloud services, advantages, and enterprise use cases** of each platform. I also compared equivalent services between AWS, Azure, and GCP, created a **cloud platform decision matrix**, and recommended suitable cloud platforms for different client scenarios.
+
+The laboratory also included a **KillerCoda Linux system investigation**, where I examined the operating system, CPU, memory, and disk resources and connected these resources to equivalent cloud computing services.
+
+Finally, I completed a **mission reflection** and organized the results in my GitHub portfolio. This laboratory helped me improve my skills in **cloud platform comparison, decision-making, research, technical documentation, and cloud solution recommendation**.
 
 ---
 
@@ -32,6 +40,8 @@ The laboratory also strengthened my skills in **Linux system administration, clo
 
 * 🧪 **Laboratory Activities** — Completed laboratory tasks, activities, and exercises
 * 💻 **Technical Exercises** — Practical cloud computing and Linux-based activities
+* ☁️ **Cloud Research** — Information and research about AWS, Azure, and GCP
+* 📊 **Comparisons & Decision Matrices** — Cloud service comparisons and platform recommendations
 * 📸 **Screenshots** — Visual documentation and evidence of completed tasks
 * 🖥️ **System Information** — Hardware, software, operating system, and infrastructure details
 * 📝 **Technical Documentation** — Organized Markdown files, reports, and technical notes
@@ -54,4 +64,4 @@ Through each laboratory activity, I aim to strengthen my understanding of cloud 
 
 **🟢 Active — Continuously Updated Throughout the Semester**
 
-This repository will be regularly updated as I complete new laboratory activities, technical exercises, checkpoints, documentation, and reflections.
+This repository is regularly updated as I complete new laboratory activities, technical exercises, checkpoints, documentation, and reflections.
