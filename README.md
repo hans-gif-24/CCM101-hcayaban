@@ -6,7 +6,7 @@ Hello! I am **Hans Paulo P. Cayaban**, a **Bachelor of Science in Information Te
 
 This repository serves as my **Cloud Computing Laboratory Portfolio** for the semester. It contains my laboratory activities, technical exercises, documentation, screenshots, reflections, and practical experiences related to cloud computing and infrastructure.
 
-Throughout the semester, this portfolio showcases my progress and developing skills in **☁️ Cloud Computing, 🐧 Linux, 🐙 GitHub, 💻 System Administration, and 📝 Technical Documentation**.
+Throughout the semester, this portfolio showcases my progress and developing skills in **☁️ Cloud Computing, 🐧 Linux, 🐙 GitHub, 💻 System Administration, 🐳 Docker, and 📝 Technical Documentation**.
 
 ---
 
@@ -32,16 +32,29 @@ The activities included researching the **global infrastructure, management cons
 
 The laboratory also included a **KillerCoda Linux system investigation**, where I examined the operating system, CPU, memory, and disk resources and connected these resources to equivalent cloud computing services.
 
-Finally, I completed a **mission reflection** and organized the results in my GitHub portfolio. This laboratory helped me improve my skills in **cloud platform comparison, decision-making, research, technical documentation, and cloud solution recommendation**.
+Finally, I completed a mission reflection and organized the results in my GitHub portfolio. This laboratory helped me improve my skills in **cloud platform comparison, decision-making, research, technical documentation, and cloud solution recommendation**.
+
+### ☁️ Laboratory 04 — Cloud-Native Engineer
+
+The fourth laboratory introduced me to the basics of **cloud-native development and Docker containers**. I learned about the differences between Virtual Machines (VMs) and containers, including their architecture, startup time, resource usage, and isolation.
+
+The activities included researching virtualization and containerization, checking the Docker environment using commands such as `docker --version` and `docker info`, and downloading the Nginx image to create and run a container.
+
+I also practiced deploying a web server using Docker and accessing the Nginx welcome page through the KillerCoda **Traffic** feature. This helped me understand port mapping and how applications can be accessed in a remote cloud environment.
+
+Another important part of the laboratory was learning the **Docker container lifecycle**. I practiced listing, stopping, verifying, and removing containers using commands such as `docker ps`, `docker stop`, `docker ps -a`, and `docker rm`.
+
+Overall, this laboratory helped me develop practical skills in **Docker, container management, web server deployment, troubleshooting, and cloud-native technologies**. It also improved my confidence in using terminal commands and documenting my technical activities through Markdown and GitHub.
 
 ---
 
 ## 🗂️ What This Portfolio Contains
 
 * 🧪 **Laboratory Activities** — Completed laboratory tasks, activities, and exercises
-* 💻 **Technical Exercises** — Practical cloud computing and Linux-based activities
+* 💻 **Technical Exercises** — Practical cloud computing, Linux, and Docker activities
 * ☁️ **Cloud Research** — Information and research about AWS, Azure, and GCP
 * 📊 **Comparisons & Decision Matrices** — Cloud service comparisons and platform recommendations
+* 🐳 **Docker & Containerization** — Container deployment, management, and lifecycle commands
 * 📸 **Screenshots** — Visual documentation and evidence of completed tasks
 * 🖥️ **System Information** — Hardware, software, operating system, and infrastructure details
 * 📝 **Technical Documentation** — Organized Markdown files, reports, and technical notes
@@ -55,6 +68,8 @@ Finally, I completed a **mission reflection** and organized the results in my Gi
 The primary goal of this portfolio is to **document my growth as an IT student and aspiring cloud professional** by maintaining an organized record of my laboratory work, technical skills, practical experiences, and learning progress.
 
 Through each laboratory activity, I aim to strengthen my understanding of cloud technologies while developing practical skills that can be applied to future projects and professional environments.
+
+By exploring cloud infrastructure, comparing cloud platforms, and practicing Docker container management, I continue to build my knowledge of modern IT systems and cloud-native technologies.
 
 > 🚀 **Learn. Practice. Document. Improve. Build for the Cloud.** ☁️
 
