@@ -46,6 +46,18 @@ Another important part of the laboratory was learning the **Docker container lif
 
 Overall, this laboratory helped me develop practical skills in **Docker, container management, web server deployment, troubleshooting, and cloud-native technologies**. It also improved my confidence in using terminal commands and documenting my technical activities through Markdown and GitHub.
 
+### ☁️ Laboratory 05 — Cloud Data Engineer
+
+The fifth laboratory focused on understanding **cloud storage types and deploying an object storage server using MinIO and Docker**.
+
+The activities included comparing **Block Storage, File Storage, and Object Storage** and identifying their descriptions, primary use cases, and cloud provider examples. I learned why Object Storage is suitable for applications that need to store large amounts of unstructured data, such as user-uploaded photos.
+
+I also practiced deploying MinIO in the **KillerCoda Ubuntu Playground**, configuring the API and web console ports, and setting administrator credentials through Docker environment variables. When the original MinIO image could not be downloaded, I investigated the error and used an alternative container image to continue the activity.
+
+After deploying the container, I accessed the MinIO web console, created a bucket named `client-photos`, and uploaded a sample file to verify that the storage service was working.
+
+Overall, this laboratory helped me improve my skills in **cloud storage management, Docker deployment, environment variable configuration, port mapping, troubleshooting, and technical documentation**. It also strengthened my understanding of how object storage can support applications that manage large numbers of uploaded files.
+
 ---
 
 ## 🗂️ What This Portfolio Contains
@@ -55,6 +67,7 @@ Overall, this laboratory helped me develop practical skills in **Docker, contain
 * ☁️ **Cloud Research** — Information and research about AWS, Azure, and GCP
 * 📊 **Comparisons & Decision Matrices** — Cloud service comparisons and platform recommendations
 * 🐳 **Docker & Containerization** — Container deployment, management, and lifecycle commands
+* 🗄️ **Cloud Storage** — Storage types, MinIO deployment, buckets, and uploaded objects
 * 📸 **Screenshots** — Visual documentation and evidence of completed tasks
 * 🖥️ **System Information** — Hardware, software, operating system, and infrastructure details
 * 📝 **Technical Documentation** — Organized Markdown files, reports, and technical notes
@@ -69,7 +82,7 @@ The primary goal of this portfolio is to **document my growth as an IT student a
 
 Through each laboratory activity, I aim to strengthen my understanding of cloud technologies while developing practical skills that can be applied to future projects and professional environments.
 
-By exploring cloud infrastructure, comparing cloud platforms, and practicing Docker container management, I continue to build my knowledge of modern IT systems and cloud-native technologies.
+By exploring cloud infrastructure, comparing cloud platforms, practicing Docker container management, and deploying object storage, I continue to build my knowledge of modern IT systems and cloud-native technologies.
 
 > 🚀 **Learn. Practice. Document. Improve. Build for the Cloud.** ☁️
 
