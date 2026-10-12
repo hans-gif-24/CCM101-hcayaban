@@ -58,6 +58,18 @@ After deploying the container, I accessed the MinIO web console, created a bucke
 
 Overall, this laboratory helped me improve my skills in **cloud storage management, Docker deployment, environment variable configuration, port mapping, troubleshooting, and technical documentation**. It also strengthened my understanding of how object storage can support applications that manage large numbers of uploaded files.
 
+### ☁️ Laboratory 06 — Cloud Deployment Engineer
+
+The sixth laboratory focused on deploying a **private cloud storage application using Nextcloud, MariaDB, and Docker Compose**.
+
+The activities included learning about **two-tier architecture**, understanding the roles of the web/application tier and database tier, and creating a `docker-compose.yml` file to define the services and their configurations.
+
+I deployed Nextcloud and MariaDB as separate containers using Docker Compose. I also checked the container status with `docker-compose ps` and accessed the Nextcloud installation page through port `8080` in the KillerCoda playground.
+
+Another important part of this laboratory was learning how the application connects to the database through the `MYSQL_HOST` environment variable. I also practiced stopping and removing the deployed containers using `docker-compose down`.
+
+Overall, this laboratory helped me improve my skills in **Docker Compose, YAML configuration, multi-container deployment, database integration, port mapping, Infrastructure as Code (IaC), and technical documentation**. It also helped me understand how multiple services can work together to provide a private cloud storage solution.
+
 ---
 
 ## 🗂️ What This Portfolio Contains
@@ -67,7 +79,9 @@ Overall, this laboratory helped me improve my skills in **cloud storage manageme
 * ☁️ **Cloud Research** — Information and research about AWS, Azure, and GCP
 * 📊 **Comparisons & Decision Matrices** — Cloud service comparisons and platform recommendations
 * 🐳 **Docker & Containerization** — Container deployment, management, and lifecycle commands
+* ⚙️ **Docker Compose** — Multi-container deployment and YAML configuration
 * 🗄️ **Cloud Storage** — Storage types, MinIO deployment, buckets, and uploaded objects
+* ☁️ **Private Cloud Storage** — Nextcloud, MariaDB, and multi-tier architecture
 * 📸 **Screenshots** — Visual documentation and evidence of completed tasks
 * 🖥️ **System Information** — Hardware, software, operating system, and infrastructure details
 * 📝 **Technical Documentation** — Organized Markdown files, reports, and technical notes
@@ -82,7 +96,7 @@ The primary goal of this portfolio is to **document my growth as an IT student a
 
 Through each laboratory activity, I aim to strengthen my understanding of cloud technologies while developing practical skills that can be applied to future projects and professional environments.
 
-By exploring cloud infrastructure, comparing cloud platforms, practicing Docker container management, and deploying object storage, I continue to build my knowledge of modern IT systems and cloud-native technologies.
+By exploring cloud infrastructure, comparing cloud platforms, practicing Docker container management, deploying object storage, and integrating multiple containers using Docker Compose, I continue to build my knowledge of modern IT systems and cloud-native technologies.
 
 > 🚀 **Learn. Practice. Document. Improve. Build for the Cloud.** ☁️
 
