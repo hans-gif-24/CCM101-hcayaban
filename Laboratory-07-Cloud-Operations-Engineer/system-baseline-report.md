@@ -50,7 +50,8 @@ These results would help establish the server's initial condition before deployi
 
 **Screenshot Evidence — CPU and Process Check**
 
-Save a screenshot of the `top` output if required by your instructor.
+<img width="1438" height="770" alt="image" src="https://github.com/user-attachments/assets/cf2b130e-12da-4d9c-8298-0baab4608cb6" />
+
 
 ### 4. Baseline Conclusion
 
