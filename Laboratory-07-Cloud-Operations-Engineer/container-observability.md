@@ -27,7 +27,8 @@ Application logs keep records of website requests and errors while a service is 
 
 ### Screenshot Evidence
 
-Save your Docker logs screenshot in the `screenshots` folder as `docker-logs.png`.
+<img width="907" height="280" alt="Screenshot 2026-10-12 165359" src="https://github.com/user-attachments/assets/57b483ff-ff56-4364-9581-9cfdcf384b33" />
+
 
 ## Checkpoint 5: Real-Time Container Metrics
 
