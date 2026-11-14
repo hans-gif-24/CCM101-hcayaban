@@ -11,11 +11,9 @@ Throughout the semester, this portfolio showcases my progress and developing ski
 ## 📚 Portfolio Contents
 
 ### ☁️ Laboratory 01 — Welcome to the Cloud
-
 The first laboratory introduced me to the basics of working with a cloud-based Linux environment. I practiced Linux commands, gathered system information, managed files and directories, created Markdown documentation, and learned the basics of GitHub version control.
 
 ### ☁️ Laboratory 02 — Build the Cloud Infrastructure Blueprint
-
 The second laboratory focused on understanding the main components of cloud infrastructure and how they work together.
 
 I investigated a Linux cloud server using the KillerCoda Playground, checked CPU, memory, storage, and network resources, identified cloud infrastructure components, designed a basic cloud architecture, and compared services from AWS, Microsoft Azure, and Google Cloud Platform (GCP).
@@ -23,7 +21,6 @@ I investigated a Linux cloud server using the KillerCoda Playground, checked CPU
 This activity improved my knowledge of Linux system administration, cloud infrastructure, technical documentation, Git, and GitHub.
 
 ### ☁️ Laboratory 03 — Multi-Cloud Explorer
-
 The third laboratory explored and compared the three major cloud platforms: Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 I researched their global infrastructure, management consoles, core services, advantages, and enterprise use cases. I also compared similar services across the platforms, created a cloud platform decision matrix, and recommended suitable platforms for different client scenarios.
@@ -33,7 +30,6 @@ The activity included investigating a Linux system through KillerCoda and examin
 Overall, this laboratory strengthened my skills in cloud platform comparison, research, decision-making, and cloud solution recommendations.
 
 ### ☁️ Laboratory 04 — Cloud-Native Engineer
-
 The fourth laboratory introduced the fundamentals of cloud-native development and Docker containers. I learned about the differences between Virtual Machines (VMs) and containers, including their architecture, startup time, resource usage, and isolation.
 
 I checked the Docker environment using commands such as `docker --version` and `docker info`, downloaded the Nginx image, and deployed a web server through Docker. I also accessed the Nginx welcome page using the KillerCoda Traffic feature to understand port mapping.
@@ -43,7 +39,6 @@ Another activity involved practicing the Docker container lifecycle by listing, 
 This laboratory improved my skills in Docker, container management, web server deployment, troubleshooting, and cloud-native technologies.
 
 ### ☁️ Laboratory 05 — Cloud Data Engineer
-
 The fifth laboratory focused on cloud storage types and object storage deployment using MinIO and Docker.
 
 I compared Block Storage, File Storage, and Object Storage and studied their common uses and cloud provider examples. I also deployed MinIO in the KillerCoda Ubuntu Playground, configured its ports and administrator credentials, and accessed its web console.
@@ -53,7 +48,6 @@ To test the storage service, I created a bucket named `client-photos` and upload
 This laboratory helped me develop practical skills in cloud storage management, Docker deployment, environment variable configuration, port mapping, and troubleshooting.
 
 ### ☁️ Laboratory 06 — Cloud Deployment Engineer
-
 The sixth laboratory focused on deploying a private cloud storage application using Nextcloud, MariaDB, and Docker Compose.
 
 I learned about two-tier architecture and the roles of the application and database tiers. I created a `docker-compose.yml` file to configure the services and deployed Nextcloud and MariaDB as separate containers.
@@ -63,7 +57,6 @@ I checked their status using `docker-compose ps` and accessed the Nextcloud inst
 This activity improved my understanding of Docker Compose, YAML configuration, multi-container deployment, database integration, port mapping, and Infrastructure as Code (IaC).
 
 ### ☁️ Laboratory 07 — Cloud Operations Engineer
-
 The seventh laboratory focused on monitoring Linux system resources and observing Docker container performance.
 
 I used KillerCoda commands such as `free -h`, `df -h /`, and `top` to check memory, disk capacity, and running processes. I then deployed an Nginx container named `client-website` and used `curl` to test the web server with successful HTTP requests and a request to a nonexistent page.
@@ -73,7 +66,6 @@ I inspected the container's activity using `docker logs client-website`, where I
 This laboratory helped me understand the importance of Linux system monitoring, HTTP testing, application log analysis, container metrics, and troubleshooting. It also showed me how monitoring helps administrators identify potential issues and understand the condition of a running service.
 
 ### ☁️ Laboratory 08 — Cloud Security Engineer
-
 The eighth laboratory focused on cloud security concepts and the importance of protecting cloud infrastructure, applications, and data.
 
 Through this laboratory, I explored security-related concepts and learned how security practices help protect cloud resources from unauthorized access and potential threats. It also helped me understand the importance of applying appropriate security measures when managing cloud environments.
@@ -81,16 +73,26 @@ Through this laboratory, I explored security-related concepts and learned how se
 This laboratory contributed to my understanding of cloud security, risk awareness, and the responsibility of protecting cloud-based systems.
 
 ### ☁️ Laboratory 09 — Cloud Automation Engineer
-
 The ninth laboratory focused on automating routine server tasks using Bash scripting and Linux Cron Jobs.
 
-I created a sample application directory named `app-data` and added a sample data file. I then created a Bash script named `backup.sh` that automatically compresses the application directory into a timestamped `.tar.gz` backup file stored in the `backups` directory.
+I created a sample application directory named `app-data` and added a sample data file. I then created a Bash script named `backup.sh` that automatically compresses the application directory into a timestamped `.tar.gz` backup file stored in the backups directory.
 
-During testing, I encountered a `Permission denied` error when I first tried to execute the script. I resolved the issue by using `chmod +x backup.sh` to grant execution permission. Afterward, the script ran successfully and generated the backup archive.
+During testing, I encountered a Permission denied error when I first tried to execute the script. I resolved the issue by using `chmod +x backup.sh` to grant execution permission. Afterward, the script ran successfully and generated the backup archive.
 
 I also configured a Cron Job using the expression `0 2 * * * /root/backup.sh` to schedule the backup script to run every day at 2:00 AM, according to the system's time and timezone.
 
 This laboratory improved my understanding of Bash scripting, Linux file permissions, compressed backups, Cron scheduling, and task automation. It also showed me how automation can reduce repetitive manual work and why scripts must be tested carefully before being used in important environments.
+
+### ☁️ Laboratory 10 — The Enterprise Cloud Architect
+The tenth laboratory served as the final project for CCM101 – Cloud Computing. It focused on planning, configuring, deploying, securing, and documenting a multi-tier application running on an Ubuntu Server virtual machine.
+
+For this project, I used Docker and Docker Compose to deploy and manage multiple interconnected services, including Gitea, Vaultwarden, Pi-hole, Nginx, and PostgreSQL. I also configured persistent database storage to help ensure that important data remains available even when containers are restarted or recreated.
+
+Another important part of the mission was securing the server using UFW (Uncomplicated Firewall). I configured firewall rules to control network access and help protect the services running on the virtual machine.
+
+I also worked with Bash scripting and Cron to automate server tasks. In addition, I prepared the system architecture diagram, project README, operational manual, and final reflection to document the deployment process, infrastructure setup, security configurations, maintenance procedures, and overall experience.
+
+This final laboratory allowed me to apply the knowledge and practical skills I developed throughout the previous missions. It strengthened my understanding of Linux administration, virtualization, Docker, container orchestration, database management, networking, cloud security, automation, and technical documentation.
 
 ## 🗂️ What This Portfolio Contains
 
@@ -103,8 +105,12 @@ This laboratory improved my understanding of Bash scripting, Linux file permissi
 - 🗄️ **Cloud Storage** — Storage types, MinIO deployment, buckets, and uploaded objects
 - ☁️ **Private Cloud Storage** — Nextcloud, MariaDB, and application-database integration
 - 📈 **Cloud Operations and Monitoring** — Linux resource checks, Docker logs, and container metrics
-- 🔐 **Cloud Security** — Security concepts, risk awareness, and cloud resource protection
+- 🔐 **Cloud Security** — Security concepts, risk awareness, firewall configuration, and cloud resource protection
 - ⚙️ **Cloud Automation** — Bash scripts, file permissions, automated backups, and Cron Jobs
+- 🏗️ **Enterprise Cloud Architecture** — Multi-tier application planning, infrastructure configuration, and deployment
+- 🐙 **Self-Hosted Services** — Gitea, Vaultwarden, Pi-hole, Nginx, and PostgreSQL
+- 💾 **Persistent Storage and Database Management** — Database integration and persistent data storage
+- 📖 **Operational Documentation** — Architecture diagrams, deployment guides, and maintenance procedures
 - 📸 **Screenshots** — Visual evidence of laboratory activities
 - 🖥️ **System Information** — Operating system and infrastructure resource details
 - 📝 **Technical Documentation** — Markdown reports, guides, and technical notes
